@@ -1,0 +1,10 @@
+.jumbotron {
+    text-align: center;
+    background-color: rgb(214, 156, 150);
+}
+.alert-dark, .card {
+    text-align: center;
+}
+.btn, .badge {
+    background-color: rgb(130, 112, 151);
+}
